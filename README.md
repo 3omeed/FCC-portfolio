@@ -14,7 +14,11 @@ My live site [here](https://3omeed.github.io/FCC-portfolio/)
 
 
 screenshots:  
-![pc]()  
+![pc](https://github.com/3omeed/FCC-portfolio/blob/main/photos/Screenshot%20(1222).png)  
+![pc](https://github.com/3omeed/FCC-portfolio/blob/main/photos/Screenshot%20(65).png)
+![pc](https://github.com/3omeed/FCC-portfolio/blob/main/photos/Screenshot%20(66).png)
+![mobile](https://github.com/3omeed/FCC-portfolio/blob/main/photos/WhatsApp%20Image%202022-08-30%20at%201.13.02%20PM%20(1).jpeg)
+![mobile](https://github.com/3omeed/FCC-portfolio/blob/main/photos/WhatsApp%20Image%202022-08-30%20at%201.13.02%20PM.jpeg)
 
 ![mobile]()
 
